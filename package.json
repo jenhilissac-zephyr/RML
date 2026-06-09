@@ -1,7 +1,7 @@
 {
   "name": "rhythm-muse-land",
   "version": "1.0.0",
-  "description": "Muse Land Rhythm Institute — Landing Page with MongoDB backend",
+  "description": "Rhythm Muse Land   — Landing Page with MongoDB backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
