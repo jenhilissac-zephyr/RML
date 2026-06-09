@@ -74,7 +74,24 @@ async function sendConfirmationEmail(name, email) {
     </p>
 
     <p>Please join 5 minutes before the session begins.</p>
+<h3>💬 Join Our WhatsApp Community</h3>
 
+<p>
+  Stay connected with fellow musicians, receive updates, reminders, and exclusive resources.
+</p>
+
+<p>
+  <a href="https://chat.whatsapp.com/HsC8T9z7GZbL73zn1Zbqzf"
+     style="display:inline-block;
+            background:#25D366;
+            color:#ffffff;
+            padding:12px 24px;
+            text-decoration:none;
+            border-radius:6px;
+            font-weight:bold;">
+    Join WhatsApp Community
+  </a>
+</p>
     <p>
       Dr. Landlin G. PhD<br>
       Rhythm Muse Land
